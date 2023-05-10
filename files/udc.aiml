@@ -8,4 +8,22 @@
 <category><pattern>Hello</pattern><template><srai>HI</srai></template></category>
 <category><pattern>hi buddy</pattern><template><srai>HI</srai></template></category>
 
+<category>
+    <pattern>How to pay maintenance bill</pattern>
+    <template>Logged into Nobrokerhood app.
+
+<ol>
+    <li>Go to Society Bill.</li>
+    <li>Click on maintenance Bill.</li>
+    <li>Click on Pay.</li>
+<li>Pay the maintenance bill through your desired payment option.</li>
+</ol>
+
+
+</template>
+</category>
+
+<category><pattern>maintenance bill</pattern><template><srai>HOW TO PAY MAINTENANCE BILL</srai></template></category>
+<category><pattern>pay maintenance bill</pattern><template><srai>HOW TO PAY MAINTENANCE BILL</srai></template></category>
+
 </aiml>
